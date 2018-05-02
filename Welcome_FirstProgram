@@ -1,0 +1,11 @@
+package github.hello;
+
+public class GitHub{
+  public static void main(String[] args){
+    System.out.println("Hello GitHub!!!");
+    first();
+  }
+  public static void first(){
+    System.out.println("This is my first GitHub repository!!!");
+  }
+}
